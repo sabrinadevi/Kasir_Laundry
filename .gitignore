@@ -1,0 +1,10 @@
+/vendor/ 
+/node_modules/ 
+/.env 
+*.log 
+/koneksi.php 
+*.sql 
+Laundryterakhir.zip 
+/koneksi.php 
+*.sql 
+Laundryterakhir.zip 
